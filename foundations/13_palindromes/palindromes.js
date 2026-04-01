@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const palindromes = function (string) {
     const regex = /[ ?.!,]/g; 
     const shortString = string.replaceAll(regex, '').toLowerCase();;
@@ -24,6 +25,10 @@ const palindromes = function (string) {
     } else {
         return false;
     }
+=======
+const palindromes = function () {
+
+>>>>>>> 24b1127a8f2575cfa120291c0efd01c298a924fc
 };
 
 // Do not edit below this line

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const sumAll = function(arg1, arg2) {
     // 1. Check if numbers are negative or not numbers -> return "ERROR"
     if (
@@ -26,5 +27,11 @@ const range = (start, stop, step) =>
         (_, i) => start + i * step,
     );
 
+=======
+const sumAll = function() {
+
+};
+
+>>>>>>> 24b1127a8f2575cfa120291c0efd01c298a924fc
 // Do not edit below this line
 module.exports = sumAll;

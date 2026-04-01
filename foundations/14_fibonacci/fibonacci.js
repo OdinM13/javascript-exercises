@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const fibonacci = function(n) {
     const number = Number(n);
     const conditionOne = 0;
@@ -12,6 +13,9 @@ const fibonacci = function(n) {
     } else {
         return fibonacci(number-1) + fibonacci(number-2);
     }
+=======
+const fibonacci = function() {
+>>>>>>> 24b1127a8f2575cfa120291c0efd01c298a924fc
 
 };
 
